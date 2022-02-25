@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The weavers answer, to the objections made by the Lustrings Company</title>
+            <author>Worshipful Company of Weavers (London, England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65343</idno>
+            <idno type="STC">Wing W1194AA</idno>
+            <idno type="STC">ESTC R219478</idno>
+            <idno type="EEBO-CITATION">99830946</idno>
+            <idno type="PROQUEST">99830946</idno>
+            <idno type="VID">35408</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65343)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35408)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2086:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The weavers answer, to the objections made by the Lustrings Company</title>
+                  <author>Worshipful Company of Weavers (London, England)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>With a docket title: To the objections made by the Lustrings Company.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royal Lustring Company (London, England) --  Early works to 1800.</term>
+               <term>Silk industry --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:35408:1" rendition="simple:additions"/>
+            <head>The Weavers Anſwer, To the OBJECTIONS made by the LUSTRINGS COMPANY.</head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> THAT <hi>Clowdeſly, Sherrad,</hi> and <hi>du Cloux,</hi> as firſt Makers of <hi>Alamodes</hi> and <hi>Luſtrings</hi> in <hi>England,</hi> had the ſole making and vending thereof as a new, Invention by Letters Pattents.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> 
+               <hi>Silks</hi> were made in <hi>England,</hi> Time out of mind, fit for <hi>Hoods</hi> and <hi>Scarves,</hi> tho not then known by the Name of <hi>Alamodes</hi> and <hi>Luſtrings:</hi> And in the Year 1663 ſeveral Pieces of <hi>Alamodes</hi> and <hi>Luſtrings</hi> were made by ſome Weavers; and others made the ſame about 1670, and in 1684. All before any Patent obtained for the ſame as a new Invention: And they had their <hi>Silks</hi> well dreſſed, as they can give undeniable Evidence of; ſo that by the Satute of Monopoly <hi>21ſt. Jac. 1. Cap.</hi> 23. they ought not to be debarred of their Right.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Before the Pattent, <hi>Alamodes</hi> and <hi>Luſtrings</hi> were made in ſmall Quantities, and not in Perfection, ſo that they were forced to leave off the Making.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> He that can make Two Pieces, can make more; and the Weavers can prove that the ſame was made and dreſſed as well, as the <hi>Luſtrings Company</hi> made any.</p>
+            <p>The Cauſe why the Weavers left off making them was, the great Importation of <hi>French Goods,</hi> and for the ſame Reaſon the Patentees did forbear to make <hi>Alamodes</hi> and <hi>Luſtrings</hi> alſo. After the Prohibition of <hi>French Goods,</hi> Weavers, as well as the <hi>Luſtrings Company</hi> fell to work, and the <hi>Luſtrings Company</hi> did not moleſt any Weaver until under the Umbrage of the Act of <hi>Tunnage</hi> and <hi>Poundage,</hi> the <hi>Luſtrings Company</hi> in 1694 cauſed many Pieces to be ſeized, as being <hi>French Goods;</hi> but upon Affidavit, that they were made in <hi>England,</hi> they were reſtored to the Owners, who ſold the ſame without any Interruption. And after that the Weavers were not moleſted, until a Clauſe was Inſerted in the <hi>Coal Act</hi> for the Prohibition of <hi>French Goods</hi> to be Imported; whereby the <hi>Luſtrings Company</hi> have the Sealing and Marking <hi>Alamodes</hi> and <hi>Luſtrings,</hi> made by them in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and gives not the <hi>Luſtrings Company</hi> any Power to Mark or Seal the Weaver's Goods; where<g ref="char:EOLhyphen"/>fore refuſing to Mark and Seal the Weaver's <hi>Alamodes</hi> and <hi>Luſtrings</hi> made in <hi>England,</hi> they are deprived of their Rights and Liberties.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> The <hi>Luſtring Company</hi> hath 600 Looms at work, and imploys ſeveral Weavers.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> There was, Nine or Ten Years ago, Twenty Thouſand Pieces of <hi>Alamodes</hi> and <hi>Luſtrings</hi> import<g ref="char:EOLhyphen"/>ed yearly from <hi>France</hi> into <hi>England;</hi> and the <hi>Luſtrings Company</hi> hath made but Nine Thouſand in Four years ſpace, which makes not 3000 Pieces a year: Now, in caſe the Weavers were encou<g ref="char:EOLhyphen"/>raged, they being above 10000, can ſet, many of them, 20. 30. or 50. Looms at Work, and ſo ſupply <hi>England.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> 
+               <hi>The Governors of the Weavers Company have given away their Rights.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> The Court of Aſſiſtants of the Weavers Company, may give away their own Rights to the making of <hi>Alamodes</hi> and <hi>Luſtrings;</hi> but being Governors only, <hi>pro hac vice,</hi> and Truſtees for their Members, they cannot give away their Members Rights: And at a Common-Hall held the 28<hi>th.</hi> of <hi>Januray</hi> laſt paſt, it was aſſerted to be the Right of the Weavers to make <hi>Luſtrings</hi> and <hi>Alamodes.</hi> by Majority of about 150. to only Five for the <hi>Luſtrings Company.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> The <hi>Luſtrings Company</hi> offers to take all Weavers into their Company that will contribute to their joint Stock.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> In that Caſe the Rich Weavers would Monopolize the whole Trade to themſelves, in excluding the poorer ſort of Weavers. And a poor Weaver with Twenty Pounds may ſet a Loom at Work, which will employ his Family; and the Piece being made, will be ready Money, with which, and the Increaſe of the prime Stock, he may imploy more Looms.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> The <hi>Luſtrings Company</hi> exchanges great Quantities of Cloath, monufactured in <hi>England,</hi> for raw <hi>Silk;</hi> and the ſame cannot be carried on without a joint Stock to deſtroy the Trade of <hi>Lion.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer </seg>
+               </label> In <hi>Lion</hi> they have no joint Stock, but every Weaver is at liberty to buy and ſell at pleaſure. The more Weavers ſell <hi>Alamodes</hi> and <hi>Luſtrings,</hi> the greater Conſumption of <hi>Silks,</hi> and conſequent<g ref="char:EOLhyphen"/>ly the Manufactury of Cloath will increaſe as the Manufactory of <hi>Alamodes</hi> and <hi>Luſtrings</hi> increaſes. So that prohibiting the Weavers to work for themſelves, is to diſcourage <hi>Engliſh</hi> Weavers, and encourage the Weavers of <hi>Lion.</hi>
+            </p>
+            <p>Now, for as much as the Intent of the Clauſe is to Prohibit only <hi>French Goods,</hi> The Weavers propoſe to have all their <hi>Luſtrings</hi> and <hi>Alamodes</hi> Marked and Sealed by the <hi>Luſtrings Company,</hi> at the Weavers own Coſt and Charge, in the Warp before cut off the Loom, and the Mark to be cut off, indented in nature of a Tally, whereof one Part to be kept by ſuch as ſhall be appointed to Mark and Seal their Goods, to direct to the Piece and the Man who made it, and the other to go along with the Piece of <hi>Silk,</hi> to prevent and detect Smugling.</p>
+            <p>
+               <hi>All which is humbly Submited.</hi>
+            </p>
+            <pb facs="tcp:35408:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
